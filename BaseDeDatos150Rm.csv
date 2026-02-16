@@ -1,151 +1,152 @@
-date;county;state;fips;cases;deaths;daily_cases;daily_deaths;day_of_week;is_weekend
-30/09/2021;burke;north carolina;37023;14805;200;81;1;3;0
-3/12/2021;bolivar;mississippi;28011;6468;151;0;0;4;0
-28/05/2021;benton;tennessee;47005;1679;41;0;0;4;0
-10/08/2021;waupaca;wisconsin;55135;6263;167;20;0;1;0
-2/09/2021;rockdale;georgia;13247;9851;193;35;0;3;0
-19/01/2021;kittitas;washington;53037;1976;30;23;0;1;0
-26/03/2021;elmore;idaho;16039;1741;13;6;0;4;0
-3/05/2021;sumner;kansas;20191;2163;51;5;0;0;0
-28/04/2021;pine;minnesota;27115;3190;21;7;0;2;0
-12/10/2021;hawkins;tennessee;47073;9985;163;20;0;1;0
-4/06/2021;russell;virginia;51167;2295;39;0;0;4;0
-8/06/2021;hidalgo;new mexico;35023;364;9;0;0;1;0
-9/05/2021;hamilton;tennessee;47065;44538;494;37;0;6;1
-22/12/2021;rock;minnesota;27133;1831;32;4;0;2;0
-10/09/2021;baltimore;maryland;24005;71032;1738;155;5;4;0
-28/06/2021;peach;georgia;13225;2723;70;1;0;0;0
-26/11/2021;eastland;texas;48133;2205;82;0;0;4;0
-12/01/2021;taylor;wisconsin;55119;1857;19;7;0;1;0
-16/02/2021;washington;maryland;24043;12103;245;14;2;1;0
-1/07/2021;polk;texas;48373;3417;120;0;0;3;0
-5/10/2021;oregon;missouri;29149;1307;10;1;0;1;0
-10/11/2021;montgomery;arkansas;5097;1141;46;1;0;2;0
-27/12/2021;carroll;maryland;24013;13011;297;0;0;0;0
-20/12/2021;chattooga;georgia;13055;4802;108;19;0;0;0
-2/06/2021;yadkin;north carolina;37197;4109;51;2;0;2;0
-29/05/2021;lee;mississippi;28081;10017;175;0;0;5;1
-21/05/2021;burleigh;north dakota;38015;15835;192;8;0;4;0
-1/03/2021;richland;wisconsin;55103;1322;14;1;0;0;0
-19/05/2021;la salle;texas;48283;1051;28;1;0;2;0
-15/12/2021;meade;kentucky;21163;3742;47;19;0;2;0
-17/09/2021;harlan;kentucky;21095;4410;101;50;0;4;0
-26/11/2021;ransom;north dakota;38073;979;21;3;0;4;0
-24/03/2021;grayson;virginia;51077;1192;31;4;0;2;0
-22/10/2021;garfield;oklahoma;40047;10077;199;0;0;4;0
-24/12/2021;anoka;minnesota;27003;70003;657;0;0;4;0
-13/03/2021;bates;missouri;29013;1291;24;0;0;5;1
-30/10/2021;marlboro;south carolina;45069;4819;82;0;0;5;1
-19/02/2021;clinton;kentucky;21053;1374;27;3;0;4;0
-14/08/2021;pickens;georgia;13227;3961;81;0;0;5;1
-21/06/2021;mahaska;iowa;19123;2326;52;0;1;0;0
-9/08/2021;citrus;florida;12017;13568;463;0;0;0;0
-14/03/2021;gloucester;virginia;51073;1958;46;3;0;6;1
-16/10/2021;wright;iowa;19197;2410;45;0;0;5;1
-7/07/2021;park;montana;30067;1464;20;1;0;2;0
-28/01/2021;franklin;georgia;13119;2321;33;16;0;3;0
-29/01/2021;monroe;michigan;26115;9135;181;38;0;4;0
-7/09/2021;coconino;arizona;4005;20199;342;27;1;1;0
-9/08/2021;hidalgo;new mexico;35023;467;9;5;0;0;0
-4/03/2021;crawford;michigan;26039;603;5;5;0;3;0
-1/09/2021;roberts;south dakota;46109;1438;43;1;0;2;0
-26/06/2021;racine;wisconsin;55101;25332;396;0;0;5;1
-22/04/2021;archer;texas;48009;795;12;0;0;3;0
-5/06/2021;thurston;washington;53067;10501;108;25;0;5;1
-28/07/2021;greenwood;kansas;20073;615;11;13;0;2;0
-4/05/2021;hopewell;virginia;51670;2564;71;3;0;1;0
-30/05/2021;hancock;west virginia;54029;2835;89;0;0;6;1
-9/08/2021;erath;texas;48143;4590;71;0;0;0;0
-9/04/2021;greenlee;arizona;4011;567;10;0;0;4;0
-31/07/2021;prentiss;mississippi;28117;2988;63;0;0;5;1
-19/02/2021;laclede;missouri;29105;2907;64;2;0;4;0
-11/09/2021;carter;oklahoma;40019;7976;138;0;0;5;1
-20/10/2021;rock island;illinois;17161;18854;404;39;1;2;0
-23/02/2021;williamsburg;virginia;51830;514;9;7;0;1;0
-14/01/2021;grand isle;vermont;50013;75;0;2;0;3;0
-27/05/2021;nassau;florida;12089;8601;126;14;0;3;0
-6/10/2021;sedgwick;kansas;20173;77798;944;517;8;2;0
-17/01/2021;st. lawrence;new york;36089;3496;56;59;0;6;1
-29/04/2021;blount;alabama;1009;6607;135;12;1;3;0
-14/11/2021;ashland;ohio;39005;7393;146;16;0;6;1
-15/09/2021;washington;mississippi;28151;6756;146;97;0;2;0
-14/02/2021;union;north carolina;37179;19733;184;75;5;6;1
-17/08/2021;miami;indiana;18103;4367;75;19;1;1;0
-15/12/2021;hancock;west virginia;54029;4820;122;25;0;2;0
-14/04/2021;brazos;texas;48041;25646;243;4;0;2;0
-7/10/2021;sauk;wisconsin;55111;7849;63;43;0;3;0
-13/10/2021;jefferson;texas;48245;31305;662;38;5;2;0
-25/06/2021;logan;oklahoma;40083;4314;65;0;0;4;0
-15/06/2021;roosevelt;montana;30085;1668;55;1;0;1;0
-8/06/2021;schuylkill;pennsylvania;42107;14754;408;3;0;1;0
-28/08/2021;fluvanna;virginia;51065;2088;22;0;0;5;1
-23/11/2021;washington;mississippi;28151;7549;168;0;0;1;0
-21/03/2021;elbert;colorado;8039;1375;12;7;0;6;1
-27/12/2021;greene;pennsylvania;42059;6241;78;3;0;0;0
-9/10/2021;dade;georgia;13083;2113;19;0;0;5;1
-28/01/2021;washington;oregon;41067;19550;185;74;0;3;0
-12/09/2021;lincoln;wisconsin;55069;3603;103;0;0;6;1
-6/10/2021;valley;montana;30105;1113;22;17;0;2;0
-14/06/2021;daviess;missouri;29061;732;11;0;0;0;0
-31/08/2021;rogers;oklahoma;40131;13103;205;0;0;1;0
-20/07/2021;new kent;virginia;51127;1537;19;1;0;1;0
-18/07/2021;christian;missouri;29043;10676;99;0;0;6;1
-25/09/2021;oldham;texas;48359;328;5;1;0;5;1
-3/05/2021;adair;kentucky;21001;1848;54;1;0;0;0
-3/10/2021;fairfield;connecticut;9001;110458;2285;0;0;6;1
-8/10/2021;norman;minnesota;27107;797;9;12;0;4;0
-10/12/2021;overton;tennessee;47133;4973;86;6;0;4;0
-24/06/2021;union;oregon;41061;1502;24;0;0;3;0
-16/01/2021;sussex;virginia;51183;795;14;17;0;5;1
-22/05/2021;buchanan;iowa;19019;1916;33;1;0;5;1
-4/04/2021;lee;north carolina;37105;5693;74;0;0;6;1
-13/05/2021;san luis obispo;california;6079;21308;260;0;0;3;0
-1/09/2021;platte;nebraska;31141;4150;50;0;0;2;0
-26/06/2021;marshall;west virginia;54051;3536;78;0;0;5;1
-18/06/2021;okaloosa;florida;12091;20847;367;71;0;4;0
-1/04/2021;olmsted;minnesota;27109;12369;94;25;0;3;0
-24/08/2021;somervell;texas;48425;1228;17;1;0;1;0
-17/12/2021;fort bend;texas;48157;104791;1047;247;0;4;0
-8/07/2021;salem;new jersey;34033;6125;188;2;0;3;0
-26/02/2021;craven;north carolina;37049;8249;114;40;1;4;0
-30/05/2021;nez perce;idaho;16069;3678;55;0;0;6;1
-4/10/2021;lanier;georgia;13173;1442;15;6;0;0;0
-11/09/2021;buena vista;iowa;19021;4663;42;0;0;5;1
-10/03/2021;waynesboro;virginia;51820;2171;34;3;0;2;0
-8/08/2021;rock island;illinois;17161;15539;372;0;0;6;1
-27/09/2021;lyon;iowa;19119;1781;41;0;0;0;0
-23/09/2021;barnstable;massachusetts;25001;16564;500;41;1;3;0
-25/07/2021;macomb;michigan;26099;101189;2507;0;0;6;1
-10/08/2021;ramsey;minnesota;27123;54083;915;153;2;1;0
-18/08/2021;brazos;texas;48041;29906;275;104;0;2;0
-3/10/2021;cattaraugus;new york;36009;7056;102;35;1;6;1
-14/06/2021;bristol;massachusetts;25005;66821;1740;2;3;0;0
-28/07/2021;white pine;nevada;32033;661;8;0;2;2;0
-10/02/2021;franklin;ohio;39049;107954;714;327;0;2;0
-12/11/2021;daviess;missouri;29061;1059;14;4;0;4;0
-13/11/2021;franklin;louisiana;22041;4717;139;0;0;5;1
-24/06/2021;lasalle;illinois;17099;12791;305;0;0;3;0
-4/10/2021;addison;vermont;50001;1378;8;4;0;0;0
-27/02/2021;armstrong;pennsylvania;42005;4902;116;11;0;5;1
-16/08/2021;jefferson;washington;53031;579;4;16;0;0;0
-14/08/2021;otsego;new york;36077;3617;47;12;0;5;1
-6/04/2021;cuming;nebraska;31039;1027;11;1;0;1;0
-22/06/2021;montgomery;ohio;39113;52574;1049;14;6;1;0
-12/05/2021;granville;north carolina;37077;5942;82;5;0;2;0
-17/04/2021;bristol;rhode island;44001;4817;141;0;0;5;1
-1/11/2021;broward;florida;12011;356758;4806;0;0;0;0
-1/04/2021;morgan;tennessee;47129;2399;39;6;0;3;0
-25/08/2021;shelby;texas;48419;2340;75;17;0;2;0
-20/09/2021;davis;iowa;19051;1031;25;0;0;0;0
-18/02/2021;liberty;georgia;13179;3023;47;25;0;3;0
-20/08/2021;ottawa;michigan;26139;34113;448;179;1;4;0
-31/12/2021;san bernardino;california;6071;399021;6051;3406;2;4;0
-10/12/2021;ohio;west virginia;54069;6943;123;30;3;4;0
-25/12/2021;tolland;connecticut;9013;13790;208;0;0;5;1
-1/12/2021;jefferson;georgia;13163;2725;89;3;0;2;0
-3/04/2021;spalding;georgia;13255;5967;182;8;0;5;1
-3/10/2021;columbia;new york;36021;4822;110;17;0;6;1
-3/12/2021;grenada;mississippi;28043;3789;109;3;0;4;0
-16/09/2021;barren;kentucky;21009;6856;116;86;4;3;0
-24/07/2021;lampasas;texas;48281;2317;33;9;0;5;1
-14/12/2021;geauga;ohio;39055;11533;187;50;6;1;0
+date,county,state,fips,cases,deaths,daily_cases,daily_deaths,day_of_week,is_weekend
+30/09/2021,burke,north carolina,37023,14805,200,81,1,3,0
+3/12/2021,bolivar,mississippi,28011,6468,151,0,0,4,0
+28/05/2021,benton,tennessee,47005,1679,41,0,0,4,0
+10/08/2021,waupaca,wisconsin,55135,6263,167,20,0,1,0
+2/09/2021,rockdale,georgia,13247,9851,193,35,0,3,0
+19/01/2021,kittitas,washington,53037,1976,30,23,0,1,0
+26/03/2021,elmore,idaho,16039,1741,13,6,0,4,0
+3/05/2021,sumner,kansas,20191,2163,51,5,0,0,0
+28/04/2021,pine,minnesota,27115,3190,21,7,0,2,0
+12/10/2021,hawkins,tennessee,47073,9985,163,20,0,1,0
+4/06/2021,russell,virginia,51167,2295,39,0,0,4,0
+8/06/2021,hidalgo,new mexico,35023,364,9,0,0,1,0
+9/05/2021,hamilton,tennessee,47065,44538,494,37,0,6,1
+22/12/2021,rock,minnesota,27133,1831,32,4,0,2,0
+10/09/2021,baltimore,maryland,24005,71032,1738,155,5,4,0
+28/06/2021,peach,georgia,13225,2723,70,1,0,0,0
+26/11/2021,eastland,texas,48133,2205,82,0,0,4,0
+12/01/2021,taylor,wisconsin,55119,1857,19,7,0,1,0
+16/02/2021,washington,maryland,24043,12103,245,14,2,1,0
+1/07/2021,polk,texas,48373,3417,120,0,0,3,0
+5/10/2021,oregon,missouri,29149,1307,10,1,0,1,0
+10/11/2021,montgomery,arkansas,5097,1141,46,1,0,2,0
+27/12/2021,carroll,maryland,24013,13011,297,0,0,0,0
+20/12/2021,chattooga,georgia,13055,4802,108,19,0,0,0
+2/06/2021,yadkin,north carolina,37197,4109,51,2,0,2,0
+29/05/2021,lee,mississippi,28081,10017,175,0,0,5,1
+21/05/2021,burleigh,north dakota,38015,15835,192,8,0,4,0
+1/03/2021,richland,wisconsin,55103,1322,14,1,0,0,0
+19/05/2021,la salle,texas,48283,1051,28,1,0,2,0
+15/12/2021,meade,kentucky,21163,3742,47,19,0,2,0
+17/09/2021,harlan,kentucky,21095,4410,101,50,0,4,0
+26/11/2021,ransom,north dakota,38073,979,21,3,0,4,0
+24/03/2021,grayson,virginia,51077,1192,31,4,0,2,0
+22/10/2021,garfield,oklahoma,40047,10077,199,0,0,4,0
+24/12/2021,anoka,minnesota,27003,70003,657,0,0,4,0
+13/03/2021,bates,missouri,29013,1291,24,0,0,5,1
+30/10/2021,marlboro,south carolina,45069,4819,82,0,0,5,1
+19/02/2021,clinton,kentucky,21053,1374,27,3,0,4,0
+14/08/2021,pickens,georgia,13227,3961,81,0,0,5,1
+21/06/2021,mahaska,iowa,19123,2326,52,0,1,0,0
+9/08/2021,citrus,florida,12017,13568,463,0,0,0,0
+14/03/2021,gloucester,virginia,51073,1958,46,3,0,6,1
+16/10/2021,wright,iowa,19197,2410,45,0,0,5,1
+7/07/2021,park,montana,30067,1464,20,1,0,2,0
+28/01/2021,franklin,georgia,13119,2321,33,16,0,3,0
+29/01/2021,monroe,michigan,26115,9135,181,38,0,4,0
+7/09/2021,coconino,arizona,4005,20199,342,27,1,1,0
+9/08/2021,hidalgo,new mexico,35023,467,9,5,0,0,0
+4/03/2021,crawford,michigan,26039,603,5,5,0,3,0
+1/09/2021,roberts,south dakota,46109,1438,43,1,0,2,0
+26/06/2021,racine,wisconsin,55101,25332,396,0,0,5,1
+22/04/2021,archer,texas,48009,795,12,0,0,3,0
+5/06/2021,thurston,washington,53067,10501,108,25,0,5,1
+28/07/2021,greenwood,kansas,20073,615,11,13,0,2,0
+4/05/2021,hopewell,virginia,51670,2564,71,3,0,1,0
+30/05/2021,hancock,west virginia,54029,2835,89,0,0,6,1
+9/08/2021,erath,texas,48143,4590,71,0,0,0,0
+9/04/2021,greenlee,arizona,4011,567,10,0,0,4,0
+31/07/2021,prentiss,mississippi,28117,2988,63,0,0,5,1
+19/02/2021,laclede,missouri,29105,2907,64,2,0,4,0
+11/09/2021,carter,oklahoma,40019,7976,138,0,0,5,1
+20/10/2021,rock island,illinois,17161,18854,404,39,1,2,0
+23/02/2021,williamsburg,virginia,51830,514,9,7,0,1,0
+14/01/2021,grand isle,vermont,50013,75,0,2,0,3,0
+27/05/2021,nassau,florida,12089,8601,126,14,0,3,0
+6/10/2021,sedgwick,kansas,20173,77798,944,517,8,2,0
+17/01/2021,st. lawrence,new york,36089,3496,56,59,0,6,1
+29/04/2021,blount,alabama,1009,6607,135,12,1,3,0
+14/11/2021,ashland,ohio,39005,7393,146,16,0,6,1
+15/09/2021,washington,mississippi,28151,6756,146,97,0,2,0
+14/02/2021,union,north carolina,37179,19733,184,75,5,6,1
+17/08/2021,miami,indiana,18103,4367,75,19,1,1,0
+15/12/2021,hancock,west virginia,54029,4820,122,25,0,2,0
+14/04/2021,brazos,texas,48041,25646,243,4,0,2,0
+7/10/2021,sauk,wisconsin,55111,7849,63,43,0,3,0
+13/10/2021,jefferson,texas,48245,31305,662,38,5,2,0
+25/06/2021,logan,oklahoma,40083,4314,65,0,0,4,0
+15/06/2021,roosevelt,montana,30085,1668,55,1,0,1,0
+8/06/2021,schuylkill,pennsylvania,42107,14754,408,3,0,1,0
+28/08/2021,fluvanna,virginia,51065,2088,22,0,0,5,1
+23/11/2021,washington,mississippi,28151,7549,168,0,0,1,0
+21/03/2021,elbert,colorado,8039,1375,12,7,0,6,1
+27/12/2021,greene,pennsylvania,42059,6241,78,3,0,0,0
+9/10/2021,dade,georgia,13083,2113,19,0,0,5,1
+28/01/2021,washington,oregon,41067,19550,185,74,0,3,0
+12/09/2021,lincoln,wisconsin,55069,3603,103,0,0,6,1
+6/10/2021,valley,montana,30105,1113,22,17,0,2,0
+14/06/2021,daviess,missouri,29061,732,11,0,0,0,0
+31/08/2021,rogers,oklahoma,40131,13103,205,0,0,1,0
+20/07/2021,new kent,virginia,51127,1537,19,1,0,1,0
+18/07/2021,christian,missouri,29043,10676,99,0,0,6,1
+25/09/2021,oldham,texas,48359,328,5,1,0,5,1
+3/05/2021,adair,kentucky,21001,1848,54,1,0,0,0
+3/10/2021,fairfield,connecticut,9001,110458,2285,0,0,6,1
+8/10/2021,norman,minnesota,27107,797,9,12,0,4,0
+10/12/2021,overton,tennessee,47133,4973,86,6,0,4,0
+24/06/2021,union,oregon,41061,1502,24,0,0,3,0
+16/01/2021,sussex,virginia,51183,795,14,17,0,5,1
+22/05/2021,buchanan,iowa,19019,1916,33,1,0,5,1
+4/04/2021,lee,north carolina,37105,5693,74,0,0,6,1
+13/05/2021,san luis obispo,california,6079,21308,260,0,0,3,0
+1/09/2021,platte,nebraska,31141,4150,50,0,0,2,0
+26/06/2021,marshall,west virginia,54051,3536,78,0,0,5,1
+18/06/2021,okaloosa,florida,12091,20847,367,71,0,4,0
+1/04/2021,olmsted,minnesota,27109,12369,94,25,0,3,0
+24/08/2021,somervell,texas,48425,1228,17,1,0,1,0
+17/12/2021,fort bend,texas,48157,104791,1047,247,0,4,0
+8/07/2021,salem,new jersey,34033,6125,188,2,0,3,0
+26/02/2021,craven,north carolina,37049,8249,114,40,1,4,0
+30/05/2021,nez perce,idaho,16069,3678,55,0,0,6,1
+4/10/2021,lanier,georgia,13173,1442,15,6,0,0,0
+11/09/2021,buena vista,iowa,19021,4663,42,0,0,5,1
+10/03/2021,waynesboro,virginia,51820,2171,34,3,0,2,0
+8/08/2021,rock island,illinois,17161,15539,372,0,0,6,1
+27/09/2021,lyon,iowa,19119,1781,41,0,0,0,0
+23/09/2021,barnstable,massachusetts,25001,16564,500,41,1,3,0
+25/07/2021,macomb,michigan,26099,101189,2507,0,0,6,1
+10/08/2021,ramsey,minnesota,27123,54083,915,153,2,1,0
+18/08/2021,brazos,texas,48041,29906,275,104,0,2,0
+3/10/2021,cattaraugus,new york,36009,7056,102,35,1,6,1
+14/06/2021,bristol,massachusetts,25005,66821,1740,2,3,0,0
+28/07/2021,white pine,nevada,32033,661,8,0,2,2,0
+10/02/2021,franklin,ohio,39049,107954,714,327,0,2,0
+12/11/2021,daviess,missouri,29061,1059,14,4,0,4,0
+13/11/2021,franklin,louisiana,22041,4717,139,0,0,5,1
+24/06/2021,lasalle,illinois,17099,12791,305,0,0,3,0
+4/10/2021,addison,vermont,50001,1378,8,4,0,0,0
+27/02/2021,armstrong,pennsylvania,42005,4902,116,11,0,5,1
+16/08/2021,jefferson,washington,53031,579,4,16,0,0,0
+14/08/2021,otsego,new york,36077,3617,47,12,0,5,1
+6/04/2021,cuming,nebraska,31039,1027,11,1,0,1,0
+22/06/2021,montgomery,ohio,39113,52574,1049,14,6,1,0
+12/05/2021,granville,north carolina,37077,5942,82,5,0,2,0
+17/04/2021,bristol,rhode island,44001,4817,141,0,0,5,1
+1/11/2021,broward,florida,12011,356758,4806,0,0,0,0
+1/04/2021,morgan,tennessee,47129,2399,39,6,0,3,0
+25/08/2021,shelby,texas,48419,2340,75,17,0,2,0
+20/09/2021,davis,iowa,19051,1031,25,0,0,0,0
+18/02/2021,liberty,georgia,13179,3023,47,25,0,3,0
+20/08/2021,ottawa,michigan,26139,34113,448,179,1,4,0
+31/12/2021,san bernardino,california,6071,399021,6051,3406,2,4,0
+10/12/2021,ohio,west virginia,54069,6943,123,30,3,4,0
+25/12/2021,tolland,connecticut,9013,13790,208,0,0,5,1
+1/12/2021,jefferson,georgia,13163,2725,89,3,0,2,0
+3/04/2021,spalding,georgia,13255,5967,182,8,0,5,1
+3/10/2021,columbia,new york,36021,4822,110,17,0,6,1
+3/12/2021,grenada,mississippi,28043,3789,109,3,0,4,0
+16/09/2021,barren,kentucky,21009,6856,116,86,4,3,0
+24/07/2021,lampasas,texas,48281,2317,33,9,0,5,1
+14/12/2021,geauga,ohio,39055,11533,187,50,6,1,0
+
